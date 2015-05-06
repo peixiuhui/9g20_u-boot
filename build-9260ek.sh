@@ -1,0 +1,3 @@
+make distclean
+make at91sam9260ek_nandflash_config
+make
